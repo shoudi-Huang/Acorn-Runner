@@ -11,6 +11,8 @@ The project consists of three main components:
 ## Demo
 [Demo Vedio](Demo_Arcon-Runner.mp4)
 
+<iframe width="560" height="315" src="Demo_Arcon-Runner.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Features
 - **Interactive Gameplay**: Players can move the acorn using commands (`w`, `a`, `s`, `d`, `e`, `q`) to navigate the maze.
 - **Dynamic Maze Elements**:
