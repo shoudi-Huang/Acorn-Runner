@@ -9,7 +9,7 @@ The project consists of three main components:
 3. **Report**: A brief analysis of testing strategies and solver algorithms.
 
 ## Demo
-[Demo Vedio](Demo_Acorn-Runner.mp4)
+[Demo Vedio](Demo_Arcon-Runner.mp4)
 
 ## Features
 - **Interactive Gameplay**: Players can move the acorn using commands (`w`, `a`, `s`, `d`, `e`, `q`) to navigate the maze.
